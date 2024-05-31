@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aleyna-demiralp-981668257/)
 
 ## 🚀 Hakkımda
-Ben Aleyna Demiralp, Mimar Sinan Güzel Sanatlar Üniversitesi istatiksik 2. sınıf öğrencisiyim. MSGSÜ Veri Bilimi ve İstatistik Kulubü Yönetim Kurulu üyesiyim. Aynı zamanda Genç Finans Kulüpy Yönetim Kurulu üyesiyim. Yazılım geliştirme, yapay zeka ve veri bilimi ile ilgileniyorum.
+Ben Aleyna Demiralp, Mimar Sinan Güzel Sanatlar Üniversitesi İstatiksik 2. sınıf öğrencisiyim. MSGSÜ Veri Bilimi ve İstatistik Kulübü Yönetim Kurulu üyesiyim. Aynı zamanda Genç Finans Kulüp Yönetim Kurulu üyesiyim. Yazılım geliştirme, yapay zeka ve veri bilimi ile ilgileniyorum.
 
 - 🌍 Bulunduğum yer: Türkiye
 - 📚 Eğitim: İstatistik
